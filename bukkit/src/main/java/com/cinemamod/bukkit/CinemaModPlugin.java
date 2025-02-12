@@ -19,7 +19,6 @@ import com.cinemamod.bukkit.util.NetworkUtil;
 import com.cinemamod.bukkit.util.ProtocolLibUtil;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import javax.json.JsonObject;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
